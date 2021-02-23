@@ -1,0 +1,10 @@
+.new-user__card {
+  width: 100%;
+}
+
+.new-user__btn-close {
+  border: none;
+  background: transparent;
+  display: flex;
+  margin-left: auto;
+}
